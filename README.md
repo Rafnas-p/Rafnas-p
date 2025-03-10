@@ -22,8 +22,6 @@ I’m a passionate developer specializing in the MERN (MongoDB, Express, React, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  
-
-### Database:  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
 
@@ -48,15 +46,20 @@ I’m a passionate developer specializing in the MERN (MongoDB, Express, React, 
 
 ## 🛠 Projects:  
 
+### 🛍 **E-commerce Website**  
+- **Tech Stack:** MERN Stack, Redux Toolkit, Tailwind CSS, Razorpay  
+- **Features:** Product management, cart & wishlist functionality, order processing, payment integration  
+- **Demo:** [E-commerce Website](#) *(Add link)*  
+
 ### 🚀 **YouTube Clone**  
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Firebase  
 - **Features:** User authentication, video uploads, real-time comments  
-- **Demo:** [YouTube Clone](#) *(Add link)*  
+- **Demo:** [YouTube Clone](#) *(https://e-comerce-shoe.vercel.app/)*  
 
 ### 🏥 **Healthcare Monitoring & Management System**  
 - **Tech Stack:** MERN Stack, Redux Toolkit, Tailwind CSS  
 - **Features:** Patient records, appointment scheduling, real-time health tracking  
-- **Demo:** [Healthcare System](#) *(Add link)*  
+- **Demo:** [Healthcare System](#) *(https://youtube-cloneby-rafnas.vercel.app/)*  
 
 ---
 
